@@ -23,3 +23,7 @@ Use the shared [transformation method](https://github.com/cybersmeashish/ashish-
 [NIST SP 800-82 Rev. 3](https://doi.org/10.6028/NIST.SP.800-82r3) is a primary technical baseline for OT research. Operational changes require the responsible process and safety owners.
 
 [Industry map](https://github.com/cybersmeashish/cybersmeashish/blob/main/docs/industries.md) · [Scoped collaboration](https://github.com/cybersmeashish/cybersmeashish/blob/main/docs/work-with-me.md)
+
+## Disconnected-cloud reference contribution
+
+[Inspect the Oil & Gas case](case-studies/sovereign-disconnected-cloud-reference.md) and its linked implementation, measured evidence and deployment questions.
